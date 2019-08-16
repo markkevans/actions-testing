@@ -7,5 +7,4 @@ npm install
 npm test
 ```
 
-
 Profit!
